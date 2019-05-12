@@ -20,10 +20,13 @@ public class QuesFrame extends JFrame {
     JButton next, previous, grade, review;
     String quesOption[][];
     boolean ansOption[][];
+    Question ques;
 
     public QuesFrame() {
         quesOption = new String[40][7];
         ansOption = new boolean[40][6];
+        ques = new Question();
+        quesOption = ques.getQuestions();
         queNO = new JLabel();
         timer = new JLabel("", JLabel.RIGHT);
         qArea = new TextArea();
@@ -55,12 +58,44 @@ public class QuesFrame extends JFrame {
         getContentPane().add(top, BorderLayout.NORTH);
         getContentPane().add(bottom, BorderLayout.SOUTH);
         getContentPane().add(center, BorderLayout.CENTER);
+        makeQues(1);
         next.addActionListener(null);
         previous.addActionListener(null);
         grade.addActionListener(null);
         review.addActionListener(null);
-
         setTitle("Java Mock Exam Syatem");
+    }
+
+    void makeQues(int num) {
+        if (num > 0 && num < 41) {
+            queNO.setText("Question NO" + num + "/40");
+            qArea.setText(quesOption[num - 1][0]);
+            qArea.setRows(10);
+            if (maxQue < num) {
+                maxQue = num;
+                for (int i = 0; i < 5; i++) {
+                    if(!quesOption[num-1][i+1].equals("")){
+                        answer[i].setVisible(true);
+                        answer[i].setSelected(false);
+                        answer[i].setText(quesOption[num-1][i+1]);
+                    }else{
+                        answer[i].setVisible(false);
+                    }
+                }
+                mark.setSelected(false);
+            }else{
+                for (int i = 0; i < 5; i++) {
+                    if(!quesOption[num-1][i+1].equals("")){
+                        answer[i].setVisible(true);
+                        answer[i].setSelected(ansOption[num-1][i]);
+                        answer[i].setText(quesOption[num-1][i+1]);
+                    }else{
+                        answer[i].setVisible(false);
+                    }
+                }
+                mark.setSelected(false);
+            }
+        }
     }
 }
 
@@ -78,7 +113,7 @@ class Question {
         }
     }
 
-    String[][] getQuestion() {
+    String[][] getQuestions() {
         StringBuffer s1;
         try {
             for (int i = 0; i < 40; i++) {
@@ -100,26 +135,20 @@ class Question {
                         break;
                     } else if (new String(s1).equals("##ans1##")) {
                         quesOption[i][1] = file.readLine();
-                    }
-                    else if (new String(s1).equals("##ans2##")) {
+                    } else if (new String(s1).equals("##ans2##")) {
                         quesOption[i][2] = file.readLine();
-                    }
-                    else if (new String(s1).equals("##ans3##")) {
+                    } else if (new String(s1).equals("##ans3##")) {
                         quesOption[i][3] = file.readLine();
-                    }
-                    else if (new String(s1).equals("##ans4##")) {
+                    } else if (new String(s1).equals("##ans4##")) {
                         quesOption[i][4] = file.readLine();
-                    }
-                    else if (new String(s1).equals("##ans5##")) {
+                    } else if (new String(s1).equals("##ans5##")) {
                         quesOption[i][5] = file.readLine();
-                    }
-                    else if (new String(s1).equals("##correct##")) {
+                    } else if (new String(s1).equals("##correct##")) {
                         quesOption[i][6] = file.readLine();
-                    }
-                    else{
+                    } else {
                         sb1.append(s1);
                         sb1.append("\n");
-                        quesOption[i][0]=new String(sb1);
+                        quesOption[i][0] = new String(sb1);
                     }
                 }
 
