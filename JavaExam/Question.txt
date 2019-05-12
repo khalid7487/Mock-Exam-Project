@@ -1,0 +1,1362 @@
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
+##-------Question----------##
+what is Output of following code?
+
+class ThisClass{
+            static void foo() throws Exception{
+                           throw new Exception();
+            }
+            public static void main(String args[]){
+                     try{
+                              foo();
+                         }catch(Exception e){
+                                      System.exit(0);
+                         }
+                         finally{
+                                   System.out.println("in finally");
+                         }
+           }
+}
+##ans1##
+Nothing
+
+##ans2##
+print-In finally
+
+##ans3##
+Compiler Time error
+
+##ans4##
+RunTime Error
+
+##ans5##
+
+##correct##
+1
