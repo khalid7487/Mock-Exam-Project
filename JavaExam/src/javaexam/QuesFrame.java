@@ -95,14 +95,37 @@ class Question {
                     }
                 }
                 while (true) {
-                    s1=new StringBuffer(file.readLine());
-                    if (new String(s1).equals("##-------Question----------##"))
-                    break;
-                }else if(){
-                               
+                    s1 = new StringBuffer(file.readLine());
+                    if (new String(s1).equals("##-------Question----------##")) {
+                        break;
+                    } else if (new String(s1).equals("##ans1##")) {
+                        quesOption[i][1] = file.readLine();
+                    }
+                    else if (new String(s1).equals("##ans2##")) {
+                        quesOption[i][2] = file.readLine();
+                    }
+                    else if (new String(s1).equals("##ans3##")) {
+                        quesOption[i][3] = file.readLine();
+                    }
+                    else if (new String(s1).equals("##ans4##")) {
+                        quesOption[i][4] = file.readLine();
+                    }
+                    else if (new String(s1).equals("##ans5##")) {
+                        quesOption[i][5] = file.readLine();
+                    }
+                    else if (new String(s1).equals("##correct##")) {
+                        quesOption[i][6] = file.readLine();
+                    }
+                    else{
+                        sb1.append(s1);
+                        sb1.append("\n");
+                        quesOption[i][0]=new String(sb1);
+                    }
                 }
+
             }
         } catch (Exception e) {
+            e.printStackTrace();
         }
         return quesOption;
     }
