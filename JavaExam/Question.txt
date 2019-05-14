@@ -1,5 +1,5 @@
 ##-------Question----------##
-what is Output of following code?
+1.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -34,7 +34,7 @@ RunTime Error
 1
 
 ##-------Question----------##
-what is Output of following code?
+2.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -68,7 +68,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+3.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -102,7 +102,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+4.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -136,7 +136,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+5.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -170,7 +170,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+6.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -204,7 +204,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+7.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -238,7 +238,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+8.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -272,7 +272,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+9.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -306,7 +306,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+10.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -340,7 +340,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+11.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -374,7 +374,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+12.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -408,7 +408,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+13.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -442,7 +442,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+14.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -476,7 +476,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+15.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -510,7 +510,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+16.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -544,7 +544,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+17.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -578,7 +578,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+18.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -612,7 +612,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+19.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -646,7 +646,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+20.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -680,7 +680,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+21.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -714,7 +714,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+22.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -748,7 +748,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+23.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -782,7 +782,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+24.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -816,7 +816,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+25.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -850,7 +850,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+26.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -884,7 +884,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+27.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -918,7 +918,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+28.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -952,7 +952,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+29.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -986,7 +986,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+30.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1020,7 +1020,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+31.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1054,7 +1054,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+32.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1088,7 +1088,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+33.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1122,7 +1122,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+34.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1156,7 +1156,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+35.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1190,7 +1190,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+36.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1225,7 +1225,7 @@ RunTime Error
 1
 
 ##-------Question----------##
-what is Output of following code?
+37.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1259,7 +1259,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+38.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
@@ -1293,7 +1293,7 @@ RunTime Error
 ##correct##
 1
 ##-------Question----------##
-what is Output of following code?
+39.what is Output of following code?
 
 class ThisClass{
             static void foo() throws Exception{
