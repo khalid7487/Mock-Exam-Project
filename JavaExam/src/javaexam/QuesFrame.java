@@ -60,6 +60,7 @@ public class QuesFrame extends JFrame {
         bottom.add(previous);
         bottom.add(grade);
         bottom.add(review);
+        bottom.add(timer);
         getContentPane().add(top, BorderLayout.NORTH);
         getContentPane().add(bottom, BorderLayout.SOUTH);
         getContentPane().add(center, BorderLayout.CENTER);
@@ -69,6 +70,8 @@ public class QuesFrame extends JFrame {
         grade.addActionListener(new ActionList());
         review.addActionListener(new ActionList());
         setTitle("Java Mock Exam Syatem");
+        Timer t=new Timer(this);
+        t.start();
     }
 
     void makeQues(int num) {

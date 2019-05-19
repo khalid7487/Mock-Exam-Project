@@ -45,8 +45,7 @@ public class JavaExam {
                 b2.addActionListener(new ActionListener() {
                     @Override
                     public void actionPerformed(ActionEvent e) {
-                        jd.hide();
-                          
+                        jd.setVisible(false);
                     }
                 });
                 JPanel p = new JPanel();
