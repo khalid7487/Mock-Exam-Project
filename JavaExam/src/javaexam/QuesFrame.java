@@ -69,6 +69,7 @@ public class QuesFrame extends JFrame {
         previous.addActionListener(new ActionList());
         grade.addActionListener(new ActionList());
         review.addActionListener(new ActionList());
+        mark.addItemListener(new ItemList());
         setTitle("Java Mock Exam Syatem");
         Timer t=new Timer(this);
         t.start();
@@ -137,6 +138,7 @@ public class QuesFrame extends JFrame {
 
             }
             if (e.getSource() == review) {
+                new Review(JavaExam.fm);
 
             }
         }
@@ -193,7 +195,8 @@ class Question {
                 StringBuffer sb1 = new StringBuffer();
                 b1:
                 while (true) {
-                    String temp = new String(file.readLine());
+                //    String temp = new String(file.readLine());
+                    String temp = file.readLine();
                     if (temp.equals("##-------Question----------##")) {
                         int k = (int) Math.ceil(Math.random() * 2);
                         switch (k) {
